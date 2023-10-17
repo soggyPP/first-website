@@ -1,7 +1,9 @@
 .body{
 background-color: black;
      border:50px;
-     border-color: black; 
+     border-color: black;
+     border-right: 50px
+     border-left: 50px
 }
 .button {
      width: 100px;
