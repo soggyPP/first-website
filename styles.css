@@ -1,0 +1,18 @@
+.button {
+     width: 100px;
+     margin: auto;
+     position: absolute;
+     left: 50%;
+     right: 50%;
+     top: 110%;
+     bottom: auto;
+ }
+
+ .image {
+     margin: auto;
+     position: absolute;
+     left: 32%;
+     right: auto;
+     top: auto;
+     bottom: auto;
+ }
