@@ -1,18 +1,19 @@
+.body{
+background-color: black;
+}
 .button {
      width: 100px;
-     margin: auto;
-     position: absolute;
-     left: 50%;
-     right: 50%;
-     top: 110%;
-     bottom: auto;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+ }
+ .pcenter{
+    text-align: center;
  }
 
  .image {
-     margin: auto;
-     position: absolute;
-     left: 32%;
-     right: auto;
-     top: auto;
-     bottom: auto;
+    width: 70%;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
  }
